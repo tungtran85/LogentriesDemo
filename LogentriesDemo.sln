@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogentriesDemo", "LogentriesDemo\LogentriesDemo.csproj", "{680D65A6-A2C3-4B00-A012-E5E8AB6E8E89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoSerilog", "DemoSerilog\DemoSerilog.csproj", "{C75FFC17-61EA-483B-9F7F-2B09E303212E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoLog4Net", "DemoLog4Net\DemoLog4Net.csproj", "{814C2328-0746-414F-9006-5A1ED0723D61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{680D65A6-A2C3-4B00-A012-E5E8AB6E8E89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{680D65A6-A2C3-4B00-A012-E5E8AB6E8E89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{680D65A6-A2C3-4B00-A012-E5E8AB6E8E89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{680D65A6-A2C3-4B00-A012-E5E8AB6E8E89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C75FFC17-61EA-483B-9F7F-2B09E303212E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C75FFC17-61EA-483B-9F7F-2B09E303212E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C75FFC17-61EA-483B-9F7F-2B09E303212E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C75FFC17-61EA-483B-9F7F-2B09E303212E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{814C2328-0746-414F-9006-5A1ED0723D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{814C2328-0746-414F-9006-5A1ED0723D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{814C2328-0746-414F-9006-5A1ED0723D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{814C2328-0746-414F-9006-5A1ED0723D61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
